@@ -74,7 +74,8 @@ The projects requires NodeJS and npm to work. Instructions to install all other 
   
 1. Open new Terminal and deploy contracts using `truffle migrate`
 2. Copy deployed contract address to src/app.js 
-![alt text](https://raw.githubusercontent.com/SuyashMore/SwasthyaChain/master/images/ganace-contracct.png)
+<img width="1192" alt="Screenshot 2023-06-03 at 6 21 56 PM" src="https://github.com/abhinav-8/Health-Chain-Major/assets/62813305/64850226-524c-4efa-879e-9528dcde9c57">
+
 
 ```js
 // app/src/app.js  line number 11
@@ -89,9 +90,11 @@ var agentContractAddress = '0x75E115394aacC7c6063E593B9292CB9417E4cbeC';
 #### 1. Connecting Metamask to our local blockchain
   - Connect metamask to localhost:8485
   - Click on import account
-  ![alt text](https://raw.githubusercontent.com/SuyashMore/SwasthyaChain/master/images/meta-1.png)
+  <img width="355" alt="Screenshot 2023-06-03 at 6 22 02 PM" src="https://github.com/abhinav-8/Health-Chain-Major/assets/62813305/ff7c4ae3-9606<img width="1190" alt="Screenshot 2023-06-03 at 6 22 08 PM" src="https://github.com/abhinav-8/Health-Chain-Major/assets/62813305/13df1d76-1f16-4dce-b760-5467604f5a98">
+-41a1-bba8-f52198307b70">
+
   - Select any account from ganache and copy the private key to import account into metaMask
-  ![alt text](https://raw.githubusercontent.com/SuyashMore/SwasthyaChain/master/images/con-g1.png)
+  
 
 #### 2. Starting IPFS 
   - Start the IPFS Desktop Application
